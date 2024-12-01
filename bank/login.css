@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'minecraft';
+    src: url('fonts/minecrafttext.ttf') format('truetype');
+}
+
+body {
+    font-family: 'minecraft', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 300%;
+}
+
+body {
+    color: rgb(255, 255, 255);
+  }

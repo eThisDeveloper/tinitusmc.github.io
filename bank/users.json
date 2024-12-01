@@ -1,0 +1,14 @@
+{
+    "ThisDeveloper": {
+        "password": "helloworld123",
+        "diamonds": 100
+    },
+    "GallantShirt": {
+        "password": "milkyway",
+        "diamonds": 10000000
+    },
+    "Steve": {
+        "password": "minecraftrocks",
+        "diamonds": 50
+    }
+}
